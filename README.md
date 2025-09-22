@@ -38,4 +38,5 @@ A wrong answer is not a meaningless one - 不正解は無意味を意味しな�
 
 ### `Japanese`
 <!-- BLOG-POST-LIST-QIITA:START -->
+- [認証認可まわりの用語を整理する](https://qiita.com/c-est-sa/items/f945d2fb685d5c272bc3)
 <!-- BLOG-POST-LIST-QIITA:END -->

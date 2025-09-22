@@ -28,9 +28,14 @@ A wrong answer is not a meaningless one - 不正解は無意味を意味しな�
 -->
 
 ## `Blog Posts`
+### `English`
 <!-- BLOG-POST-LIST:START -->
 - [Auth with Next.js+Auth.js+MongoDB, and RBAC -bonus topic: JWT](https://dev.to/c-est-sa/auth-with-nextjsauthjsmongodb-and-rbac-bonus-topic-jwt-16ng)
 - [Combining Client and Server Components in Next.js for Better Performance](https://dev.to/c-est-sa/combining-client-and-server-components-in-nextjs-for-better-performance-42a7)
 - [📖 Course Menu - Efficient Data Fetching in Next.js](https://dev.to/c-est-sa/course-menu-efficient-data-fetching-in-nextjs-4ho2)
 - [Git Rebase 101 &lpar;What, Why, When, and How&rpar;](https://dev.to/c-est-sa/git-rebase-101-what-why-when-and-how-b1h)
 <!-- BLOG-POST-LIST:END -->
+
+### `Japanese`
+<!-- BLOG-POST-LIST-QIITA:START -->
+<!-- BLOG-POST-LIST-QIITA:END -->

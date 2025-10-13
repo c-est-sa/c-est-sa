@@ -32,6 +32,7 @@ A wrong answer is not a meaningless one - 不正解は無意味を意味しな�
 
 ### `Japanese`
 <!-- BLOG-POST-LIST-QIITA:START -->
+- [待って、このコミット、修正したい](https://qiita.com/c-est-sa/items/762b517bbaf85b10f5b6)
 - [認証認可まわりの用語を整理する](https://qiita.com/c-est-sa/items/f945d2fb685d5c272bc3)
 <!-- BLOG-POST-LIST-QIITA:END -->
 

@@ -36,10 +36,11 @@ A wrong answer is not a meaningless one - 不正解は無意味を意味しな�
 - [認証認可まわりの用語を整理する](https://qiita.com/c-est-sa/items/f945d2fb685d5c272bc3)
 <!-- BLOG-POST-LIST-QIITA:END -->
 
-
+<!--
 ## `GitHub Stats`
 [![GitHub Streak](https://streak-stats.demolab.com/?user=c-est-sa)](https://git.io/streak-stats)
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-est-sa)](https://github.com/anuraghazra/github-readme-stats)
+-->
 -->
 

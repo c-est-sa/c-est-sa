@@ -1,17 +1,19 @@
+<!--
 <img src="https://capsule-render.vercel.app/api?type=rect&color=332DD0&height=120&section=header&text=Sachi%20Asano&fontColor=BFE9D3&stroke=DF4894&strokeWidth=1.5&fontSize=47&fontAlignY=45&desc=Full-stack%20Developer&descAlignY=75" alt="Sachi Asano, a full-stack developer" width="100%" />
 
-<!--
 **<p align="center">Call me Sacha [ˈsɑːʃə] :)</p>**
 -->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sachi-sacha-asano/" target="_blank">Stay Connected on LinkedIn</a>
-</p>
+<!-- <p align="center"> -->
+  <a href="https://www.linkedin.com/in/sachi-sacha-asano/" target="_blank">Stay Connected on LinkedIn 🤝</a>
+<!-- </p> -->
 
 ### About Me
 
+<!--
 - 👩🏻‍💻 Full-stack developer fluent in modern web technologies
-- ✨ Enjoy learning new stuff and updating myself
+-->
+- 👩🏻‍💻 Full-stack developer who enjoys learning new stuff and trying it out
 - 💭 Full-time thinker, part-time reader/writer/crocheter
 - 🥑 Motto: A wrong answer is not a meaningless one
 

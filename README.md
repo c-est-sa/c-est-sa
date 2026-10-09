@@ -12,16 +12,17 @@
 
 - 👩🏻‍💻 Full-stack developer fluent in modern web technologies
 - ✨ Enjoy learning new stuff and updating myself
-- 💚 Full-time thinker/fiction-lover, part-time reader/writer/crocheter
+- 💭 Full-time thinker, part-time reader/writer/crocheter
+- 🥑 Motto: A wrong answer is not a meaningless one
 
 <!--
 ## `Skills`
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,nodejs,express,mongodb,firebase,supabase,prisma,git,figma&theme=light)](https://skillicons.dev)
 -->
-
+<!--
 ### Motto
 A wrong answer is not a meaningless one
-
+-->
 
 ### Blog Posts
 #### English

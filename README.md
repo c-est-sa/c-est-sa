@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=332DD0&height=120&section=header&text=Sachi%20Asano&fontColor=BFE9D3&stroke=DF4894&strokeWidth=1.5&fontSize=47&fontAlignY=45&desc=Full-stack%20Developer&descAlignY=75" alt="Sachi Asano, a full-stack developer" width="100%" />
 
+<!--
 **<p align="center">Call me Sacha [ˈsɑːʃə] :)</p>**
+-->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sachi-sacha-asano/" target="_blank">Stay Connected on LinkedIn</a>
@@ -12,10 +14,10 @@
 - ✨ Enjoy learning new things and updating myself
 - 💚 Full-time thinker/fiction-lover, part-time reader/writer/crocheter
 
-
+<!--
 ## `Skills`
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,nodejs,express,mongodb,firebase,supabase,prisma,git,figma&theme=light)](https://skillicons.dev)
-
+-->
 
 ## `Motto`
 A wrong answer is not a meaningless one - 不正解は無意味を意味しない

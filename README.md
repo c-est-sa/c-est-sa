@@ -8,10 +8,10 @@
   <a href="https://www.linkedin.com/in/sachi-sacha-asano/" target="_blank">Stay Connected on LinkedIn</a>
 </p>
 
-## `About Me`
+### About Me
 
 - 👩🏻‍💻 Full-stack developer fluent in modern web technologies
-- ✨ Enjoy learning new things and updating myself
+- ✨ Enjoy learning new stuff and updating myself
 - 💚 Full-time thinker/fiction-lover, part-time reader/writer/crocheter
 
 <!--
@@ -19,12 +19,12 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,nodejs,express,mongodb,firebase,supabase,prisma,git,figma&theme=light)](https://skillicons.dev)
 -->
 
-## `Motto`
-A wrong answer is not a meaningless one - 不正解は無意味を意味しない
+### Motto
+A wrong answer is not a meaningless one
 
 
-## `Blog Posts`
-### `English`
+### Blog Posts
+#### English
 <!-- BLOG-POST-LIST:START -->
 - [Auth with Next.js+Auth.js+MongoDB, and RBAC -bonus topic: JWT](https://dev.to/c-est-sa/auth-with-nextjsauthjsmongodb-and-rbac-bonus-topic-jwt-16ng)
 - [Combining Client and Server Components in Next.js for Better Performance](https://dev.to/c-est-sa/combining-client-and-server-components-in-nextjs-for-better-performance-42a7)
@@ -32,7 +32,7 @@ A wrong answer is not a meaningless one - 不正解は無意味を意味しな�
 - [Git Rebase 101 &lpar;What, Why, When, and How&rpar;](https://dev.to/c-est-sa/git-rebase-101-what-why-when-and-how-b1h)
 <!-- BLOG-POST-LIST:END -->
 
-### `Japanese`
+#### Japanese
 <!-- BLOG-POST-LIST-QIITA:START -->
 - [待って、このコミット、修正したい](https://qiita.com/c-est-sa/items/762b517bbaf85b10f5b6)
 - [認証認可まわりの用語を整理する](https://qiita.com/c-est-sa/items/f945d2fb685d5c272bc3)

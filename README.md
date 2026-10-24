@@ -13,7 +13,7 @@
 <!--
 - 👩🏻‍💻 Full-stack developer fluent in modern web technologies
 -->
-- 👩🏻‍💻 Full-stack developer who enjoys learning new stuff and trying it out
+- 👩🏻‍💻 Full-stack developer who enjoys learning stuff and uncovering new worlds
 - 💭 Full-time thinker, part-time reader/writer/crocheter
 - 🥑 Motto: A wrong answer is not a meaningless one
 

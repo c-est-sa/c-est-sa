@@ -37,6 +37,7 @@ A wrong answer is not a meaningless one
 
 #### Japanese
 <!-- BLOG-POST-LIST-QIITA:START -->
+- [なぜSSRを使うとCSRより初回のページ表示が速いのか、やっと腹落ちした【React】](https://qiita.com/c-est-sa/items/b80f43e988d4a25d72e5)
 - [待って、このコミット、修正したい](https://qiita.com/c-est-sa/items/762b517bbaf85b10f5b6)
 - [認証認可まわりの用語を整理する](https://qiita.com/c-est-sa/items/f945d2fb685d5c272bc3)
 <!-- BLOG-POST-LIST-QIITA:END -->
